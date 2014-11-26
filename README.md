@@ -4,6 +4,7 @@ This is the git archive of the "projet logicielle" for Supélec promo 2016
 
 Autors: Guilherme Pereira Freire Machado & Marouane Benalla
 Professor: Marc-Antoine Weisser
+http://guilhermepfm.github.io/PROJET-LOGICIELLE
 
 The project has the following subject:
 
