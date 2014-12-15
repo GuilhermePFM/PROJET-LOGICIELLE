@@ -25,6 +25,12 @@ public class gameWindow {
 	background.setBackground(Color.white);
 	fenetreJeu.add(background);
 	
+	// Parcours
+	ImageIcon planFond = new ImageIcon("src/jeuControleur/map1.png");
+	JPanel parcours= new JPanel;
+	parcours.setBounds(0, 0, 750, 750);
+	parcours.add(planFond);
+	
 	   }
 	
 }
